@@ -1,0 +1,22 @@
+
+# Google Drive
+# path: /content/drive/MyDrive/IAT481/CV_Proj/
+# train: /content/drive/MyDrive/IAT481/CV_Proj/images/
+# val: /content/drive/MyDrive/IAT481/CV_Proj/images/
+
+# Local
+path: C:\\Users\\Pocholo\\Desktop\\481\\CV_Project\\
+train: C:\\Users\\Pocholo\\Desktop\\481\\CV_Project\\images\\train\\
+val: C:\\Users\\Pocholo\\Desktop\\481\\CV_Project\\images\\val\\
+
+# Classes
+nc: 6
+
+# Class Names
+names:
+  0: Dime
+  1: Loonie
+  2: Nickel
+  3: Penny
+  4: Quarter
+  5: Toonie
