@@ -1,4 +1,4 @@
-*.pt
+# *.pt
 
-# ignore ALL files in ANY directory named temp
-runs/
+# # ignore ALL files in ANY directory named temp
+# runs/
